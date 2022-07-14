@@ -4,13 +4,17 @@
     In this exercise, we reviewed student performance on standardized test by multiple factors (School Size, Type, Funding) while excluding the 9th grade of Thomas High School due to concerns of Academic dishonesty. To perform this analysis, we aggregated data from the student level to show underlying trends in school performance. This work was done to aid the school board in the allocation of funding and budgeting. 
 
 ## Results
---How is the district summary affected?
+-How is the district summary affected?
     In review of the data at the district level while excluding Thomas High School, it appears as if Reading and Math scores were impacted. Math scores went from a mean of 79.0% to 77.0%. Reading scores went from a mean of 81.9% to 81.0%.  
 
---How is the school summary affected?
+### District Analysis
+![Audit Findings](https://github.com/taxcollecter/Election_Analysis/blob/6595bb630f550a02d1c3399a880a7625d0fc3b67/Resources/Election_output.png)
+ 
+
+-How is the school summary affected?
     The School Summary does show a slight impact as Thomas High School (THS) is among the higher performing schools from a scores perspective. Naturally by removing an entire grade from the dataset, the overall scores are negatively impacted.
 
---How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
         Comparing THS' performance against its peer Charter schools (Shelton, Wilson, Cabrera, Griffin) after our data augmentation does show that the scores were negatively impacted. However, the school still hovers confidently in the 83 percentile for both measures. 
 
 ## Summary
