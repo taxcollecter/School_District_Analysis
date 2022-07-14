@@ -17,14 +17,16 @@
      Comparing THS' performance against its peer Charter schools (Shelton, Wilson, Cabrera, Griffin) after our data augmentation does show that the scores were negatively impacted. However, the school still hovers confidently in the 83 percentile for both measures. 
 
 -How does replacing the ninth-grade scores affect the following:
-     -Math and reading scores by grade
-        
+     Math and reading scores for the ninth-grade are negatively impacted. With THS' 9th graders having Math and Reading scores of 83.6 and 83.7 respectively, by removing their scores, the overall average drops. 
         
 -Scores by school spending
+    The school spending bin of $631-645, where THS is grouped, was negatively impacted by the removal of the THS 9th graders. The bins' Math and Reading scores of 78.5 and 81.2 would have been improved by THS' Math and Reading scores had they been included. 
 
 -Scores by school size
-
+     The Medium school size bin had a mixed result post data augmentation. The Medium bin's Math score was negatively impacted resulting in a 83.4 score given the removal of THS' 9th graders scores of 83.6. However, the Medium bin's Reading score was positively impacted resulting in a 83.9 score given the removal of THS' 9th graders scores of 83.7.
+     
 -Scores by school type
+          The Charter school type had a mixed result post data augmentation. The school type's Math score was negatively impacted resulting in a 83.5 score given the removal of THS' 9th graders scores of 83.6. However, the school type's Reading score was positively impacted resulting in a 83.9 score given the removal of THS' 9th graders scores of 83.7.
 
 ## Summary
     In summary, by removing the 9th grade scores of Thomas High School we are seeing an overall negative impact to the School district's Math and Reading scores. If academic dishonesty is at the root of variance, we will need to work with the faculty to ensure this does not happen again and confirm student's confidence in performing during these test. Prior to the data augmentation, the 9th graders at THS led the other grades in Math scores and were 2nd in Reading scores to the 12th graders. By removing the 9th graders scores via this excercise, these 4 data points at a District and School level are visibly impactful. To maintain the school's trend in potential performance, the dishonesty will need to be rooted out. 
