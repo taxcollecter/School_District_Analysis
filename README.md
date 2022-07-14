@@ -7,14 +7,13 @@
 -How is the district summary affected?
     In review of the data at the district level while excluding Thomas High School, it appears as if Reading and Math scores were impacted. Math scores went from a mean of 79.0% to 77.0%. Reading scores went from a mean of 81.9% to 81.0%.  
 
-### District Analysis
 ![District Visual](https://github.com/taxcollecter/School_District_Analysis/blob/3bc561296932cbc55de75f8335c1b167a3541840/Resources/District_Analysis.png)
  
--How is the school summary affected?
-    The School Summary does show a slight impact as Thomas High School (THS) is among the higher performing schools from a scores perspective. Naturally by removing an entire grade from the dataset, the overall scores are negatively impacted.
+How is the school summary affected?
+The School Summary does show a slight impact as Thomas High School (THS) is among the higher performing schools from a scores perspective. Naturally by removing an entire grade from the dataset, the overall scores are negatively impacted.
 
--How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-     Comparing THS' performance against its peer Charter schools (Shelton, Wilson, Cabrera, Griffin) after our data augmentation does show that the scores were negatively impacted. However, the school still hovers confidently in the 83 percentile for both measures. 
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Comparing THS' performance against its peer Charter schools (Shelton, Wilson, Cabrera, Griffin) after our data augmentation does show that the scores were negatively impacted. However, the school still hovers confidently in the 83 percentile for both measures. 
 
 -How does replacing the ninth-grade scores affect the following:
      Math and reading scores for the ninth-grade are negatively impacted. With THS' 9th graders having Math and Reading scores of 83.6 and 83.7 respectively, by removing their scores, the overall average drops. 
