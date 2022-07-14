@@ -8,7 +8,7 @@
     In review of the data at the district level while excluding Thomas High School, it appears as if Reading and Math scores were impacted. Math scores went from a mean of 79.0% to 77.0%. Reading scores went from a mean of 81.9% to 81.0%.  
 
 ### District Analysis
-![Audit Findings](https://github.com/taxcollecter/Election_Analysis/blob/6595bb630f550a02d1c3399a880a7625d0fc3b67/Resources/Election_output.png)
+![District Visual](https://github.com/taxcollecter/School_District_Analysis/blob/3bc561296932cbc55de75f8335c1b167a3541840/Resources/District_Analysis.png)
  
 
 -How is the school summary affected?
