@@ -24,9 +24,13 @@
 
 -Scores by school size
      The Medium school size bin had a mixed result post data augmentation. The Medium bin's Math score was negatively impacted resulting in a 83.4 score given the removal of THS' 9th graders scores of 83.6. However, the Medium bin's Reading score was positively impacted resulting in a 83.9 score given the removal of THS' 9th graders scores of 83.7.
+
+![School Size](https://github.com/taxcollecter/School_District_Analysis/blob/c2a6d5b4d0809b38582001b98825f0989628d167/Resources/School_size.png)
      
 -Scores by school type
           The Charter school type had a mixed result post data augmentation. The school type's Math score was negatively impacted resulting in a 83.5 score given the removal of THS' 9th graders scores of 83.6. However, the school type's Reading score was positively impacted resulting in a 83.9 score given the removal of THS' 9th graders scores of 83.7.
+
+![School Type](https://github.com/taxcollecter/School_District_Analysis/blob/c2a6d5b4d0809b38582001b98825f0989628d167/Resources/School_Type.png)
 
 ## Summary
     In summary, by removing the 9th grade scores of Thomas High School we are seeing an overall negative impact to the School district's Math and Reading scores. If academic dishonesty is at the root of variance, we will need to work with the faculty to ensure this does not happen again and confirm student's confidence in performing during these test. Prior to the data augmentation, the 9th graders at THS led the other grades in Math scores and were 2nd in Reading scores to the 12th graders. By removing the 9th graders scores via this excercise, these 4 data points at a District and School level are visibly impactful. To maintain the school's trend in potential performance, the dishonesty will need to be rooted out. 
