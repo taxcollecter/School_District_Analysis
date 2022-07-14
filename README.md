@@ -10,14 +10,8 @@
 --How is the school summary affected?
     The School Summary does show a slight impact as Thomas High School (THS) is among the higher performing schools from a scores perspective. Naturally by removing an entire grade from the dataset, the overall scores are negatively impacted.
 
-    --How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+--How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
         Comparing THS' performance against its peer Charter schools (Shelton, Wilson, Cabrera, Griffin) after our data augmentation does show that the scores were negatively impacted. However, the school still hovers confidently in the 83 percentile for both measures. 
 
-    --How does replacing the ninth-grade scores affect the following:
-      Math and reading scores by grade
-      Scores by school spending
-      Scores by school size
-      Scores by school type
-
-    ## Summary
+## Summary
     In summary, by removing the 9th grade scores of Thomas High School we are seeing an overall negative impact to the School district's Math and Reading scores. If academic dishonesty is at the root of variance, we will need to work with the faculty to ensure this does not happen again and confirm student's confidence in performing during these test. Intra school by grade, the 9th graders at THS led the other grades in Math scores and were 2nd in Reading scores to the 12th graders. To maintain the school's trend in potential performance, the dishonesty will need to be rooted out. 
